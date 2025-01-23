@@ -1,0 +1,32 @@
+[
+{
+    "imagen" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Spider-Man_%28cropped%29.jpg/128px-Spider-Man_%28cropped%29.jpg",
+    "nombre" : "Spider-Man",
+    "identidad" : "Peter Parker",
+    "descripcion" : "Joven huérfano neoyorquino que adquiere superpoderes después de ser mordido por una araña radiactiva"
+},
+{
+    "imagen" : "https://static.myfigurecollection.net/upload/items/1/1474508-0a6a8.jpg",
+    "nombre" : "Iron Man",
+    "identidad" : "Tony Stark",
+    "descripcion" : "Multimillonario magnate empresarial, filántropo estadounidense, playboy y un ingenioso científico e ingeniero, que dirige la empresa de fabricación de armas Industrias Stark."
+},
+{
+    "imagen" : "https://images.stockcake.com/public/4/3/9/43918627-a0b6-4dc6-a58b-42e30577126d_medium/hulk-at-sunset-stockcake.jpg",
+    "nombre" : "Hulk",
+    "identidad" : "David Bruce Banner",
+    "descripcion" : "Ser humanoide enorme de piel verde, corpulento y musculoso que posee una gran fortaleza física, y su alter ego"
+},
+{
+    "imagen" : "https://d1rig8ldkblbsy.cloudfront.net/app/uploads/2019/04/03133127/black_widow_2020_preview-256x256.jpg",
+    "nombre" : "Black Widow",
+    "identidad" : "Natalia Alianovna (Natasha) Romanova",
+    "descripcion" : "Espía de la Unión Soviética hasta que deserta a los Estados Unidos."
+},
+{
+    "imagen" : "https://pbs.twimg.com/profile_images/685896589362216963/N2j7Rc9E_400x400.png",
+    "nombre" : "Capitán América",
+    "identidad" : "Steven Grant Rogers",
+    "descripcion" : "Fue un hombre frágil mejorado hasta la cima de la perfección física humana por un suero de súper soldado"
+}
+]
